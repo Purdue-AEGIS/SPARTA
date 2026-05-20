@@ -79,7 +79,7 @@ BibTeX:
 
 ### Foundational Work
 
-SPARTA builds on the sparse tableau approach developed in the following M.S. theses:
+SPARTA builds on the sparse tableau approach also investigated in the following M.S. theses:
 
 ```bibtex
 @mastersthesis{rajakumar2024dynamic,
