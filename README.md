@@ -77,9 +77,9 @@ BibTeX:
   doi={10.1109/PECI70026.2026.11516420}}
 ```
 
-### Foundational Work
+### Preliminary investigations
 
-SPARTA builds on the sparse tableau approach also investigated in the following M.S. theses:
+SPARTA is developed as modeling and simulation framework based on the sparse tableau approach. The preliminary investigations on the approach to be cited are as follows : 
 
 ```bibtex
 @mastersthesis{rajakumar2024dynamic,
@@ -107,7 +107,7 @@ SPARTA builds on the sparse tableau approach also investigated in the following 
 - **Vassilis Kekatos** — supervision
 - **Dionysios Aliprantis** — supervision
 
-This work was carried out in the Schweitzer Power and Energy Systems Group, Purdue University, West Lafayette, IN, USA. The platform builds on the sparse tableau formulation developed in the M.S. theses of Aravindkumar Rajakumar and Oindrilla Sanyal (see [Foundational Work](#foundational-work)). \<Add funding / grant acknowledgments here if applicable.\>
+This work was carried out in the Schweitzer Power and Energy Systems Group, Purdue University, West Lafayette, IN, USA. 
 
 ## Contributing
 
